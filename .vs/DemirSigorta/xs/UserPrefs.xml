@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemirSigorta" expanded="True">
+            <Node name="DemirSaglik.Project.Business" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="ApiService" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DemirSaglik.Project.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="DemirSaglik.Project.WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DemirSaglik.Project.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.DemirSaglik.Project.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{BACC6913-0321-4ACF-8E57-DE635DE45479}" ItemName="DemirSaglik.Project.Web" ConfigurationId="Default" />
+        <StartupItem ItemId="{E77957C8-3E43-4F48-956E-17C27D15D139}" ItemName="DemirSaglik.Project.WebApi" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

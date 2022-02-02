@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqlPKiI7/lFu/iRuDCmA+rl0NhOgYA3o+EVIbB7wDk/iK8CELY3C/To28nHL1yC5cXiGg6r5aL7Lv6VJmmfpLQ==",
+  "success": true,
+  "projectFilePath": "/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Web/DemirSaglik.Project.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/aydoganpederli/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/aydoganpederli/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "/Users/aydoganpederli/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "/Users/aydoganpederli/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/aydoganpederli/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/aydoganpederli/.nuget/packages/restsharp/106.12.0/restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.deps.json
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.dll
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.pdb
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.AssemblyInfoInputs.cache
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.AssemblyInfo.cs
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.csproj.CoreCompileInputs.cache
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.dll
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Entities/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.pdb

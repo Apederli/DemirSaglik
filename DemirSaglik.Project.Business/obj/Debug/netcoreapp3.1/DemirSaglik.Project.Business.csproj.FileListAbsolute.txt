@@ -1,0 +1,13 @@
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Business.deps.json
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Business.dll
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Business.pdb
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.dll
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/bin/Debug/netcoreapp3.1/DemirSaglik.Project.Entities.pdb
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.csproj.AssemblyReference.cache
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.AssemblyInfoInputs.cache
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.AssemblyInfo.cs
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.csproj.CoreCompileInputs.cache
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.csproj.CopyComplete
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.dll
+/Users/aydoganpederli/Projects/DemirSigorta/DemirSaglik.Project.Business/obj/Debug/netcoreapp3.1/DemirSaglik.Project.Business.pdb

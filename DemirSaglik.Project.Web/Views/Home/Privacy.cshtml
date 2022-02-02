@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "MOVİES";
+}
+<h1>@ViewData["Title"]</h1>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Search" id="myInput">
+    <div class="input-group-append">
+        <input type="submit" onchange="submitForm()" class="btn btn-success" value="Search" id="btnId">
+    </div>
+</div>
+
+<div class="d-flex justify-content-center" id="control">
+    <div class="" id="snipper" role="status"></div>
+</div>
+
+<div id="table" >
+
+</div>
+
+<script type="text/javascript">
+
+
+    $(function () {
+
+        $("#btnId").click(function () {
+            var title = $("#myInput").val();
+            $("#snipper").addClass("spinner-border text-primary");
+            $.ajax({
+                url: '/Home/GetMovieByTitle/',
+                data: { title },
+                type: 'POST',
+                datatype: 'json',
+                success: function (e) {
+                    $("#snipper").removeClass();
+                    var table = '<table class="table" id="myTable"> <thead>  <tr>  <th scope="col">IMDB ID</th><th scope="col">Title</th><th scope="col">Year</th><th scope="col">Type</th><th scope="col">Poster</th></tr> </thead>'
+                    var result = $.parseJSON(e);
+                    $.each(result, (index, value) => {
+
+                        table += `<tbody><tr><th id="imdbID" scope="row"> ${value.imdbID} </th><td id="titleID">${value.Title} </td><td id="yearID">${value.Year} </td><td id="typeID">${value.Type} </td> <td> <img id="imgID" src="${value.Poster} " width="50" height="60"></td>  </tr></tbody >`
+                        console.log(value.Year);
+                    });
+                    table += '</table>';
+                    $("#table").html(table);
+                }
+            });
+        });
+    });</script>
+
+
+
+

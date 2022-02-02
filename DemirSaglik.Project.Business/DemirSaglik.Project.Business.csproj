@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Validation\" />
+    <None Remove="FluentValidation.AspNetCore" />
+    <None Remove="Concrete\" />
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\ApiService\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Concrete\ApiEntity\" />
+    <None Remove="RestSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Validation\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\ApiService\" />
+    <Folder Include="Concrete\ApiEntity\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.6" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DemirSaglik.Project.Entities\DemirSaglik.Project.Entities.csproj" />
+  </ItemGroup>
+</Project>
